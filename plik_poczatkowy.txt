@@ -1,1 +1,2 @@
-testovy dokument
+pierwszy komentarz.
+Drugi komentarz.
